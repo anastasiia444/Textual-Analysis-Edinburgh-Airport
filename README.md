@@ -5,7 +5,7 @@ This project is a collaboration of Edinburgh Airport and the Faculty of Economet
 As for the major airport in Scotland, it is essential to understand customers' behaviour and satisfaction in order to answer open-ended questions, extract actionable insights, significant information and patterns from the textual data. Analyzing customers' surveys will help to segment customers' profile, produce insights to solve real business problems and increase travelers' satisfaction.
 
 ## Main Aspects 
-The dataset contains 24,934 responses with 62 columns, including quantitative and qualitative variables collected through a questionnaire. Two open-ended questions allow travelers to freely express their satisfaction and suggestions for improvement.
+The dataset contains 10660 responses and 92 columns, including quantitative and qualitative variables. 
 
 Our group has highlighted some key aspects :
 
@@ -15,6 +15,12 @@ Our group has highlighted some key aspects :
 
 - Sentiment analysis & charts
 
-- Implementation of Machine Learning 
+- Implementation of Machine Learning
+
+## This project is made by
+  - Moad Hadmen
+  - Silya Moussous
+  - Angela Grimaud
+  - Anastasiia Savelkova
 
 
